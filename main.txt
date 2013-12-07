@@ -7,5 +7,6 @@
 int main(){
 	int a= 0;
 	int b = 1;
+	double c = a + b/2 * 3.14;
 	return 0;
 }
