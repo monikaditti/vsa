@@ -8,6 +8,7 @@ int main(){
 	int a= 0;
 	int b = 1;
 	double c = a + b/2 * 3.14;
+	double d = c / 100 + 50;
 
 
 	return 0;
