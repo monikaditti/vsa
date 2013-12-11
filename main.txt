@@ -15,7 +15,7 @@ int main(){
 	double d = c / 100 + 50;
 
 
-a;
+a;h
 	
 	printf("Vysledok = %lf\n",c*d);
 
